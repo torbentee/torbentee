@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![codewars badge]{https://www.codewars.com/users/torbentee/badges/small}
+![codewars badge](https://www.codewars.com/users/torbentee/badges/small)
 
 <!--
 **torbentee/torbentee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
